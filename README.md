@@ -33,4 +33,4 @@ Please create a pull request with adding commit messages.
   
 ## Support
 
-For support, email deepusuresh1212@gmail.com or WhatsApp @ +91-9172104341
+For support, email deepusuresh1212@gmail.com
